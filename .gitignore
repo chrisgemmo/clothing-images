@@ -1,0 +1,9 @@
+/assets
+/bridge
+/build
+/client
+/data
+fxmanifest.lua
+locales/en.json
+/shared
+/server
